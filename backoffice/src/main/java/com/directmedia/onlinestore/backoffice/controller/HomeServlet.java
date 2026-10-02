@@ -26,7 +26,6 @@ public class HomeServlet extends HttpServlet {
         out.print("<HTML><BODY>OnlineStore Gestion de la boutique<BR/>");
         out.print("<a href=\"catalogue\">Les oeuvres du catalogue</a></BODY></HTML>");
 	}
-
-	}
+}
 
 
